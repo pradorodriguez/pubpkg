@@ -1,0 +1,19 @@
+{
+  "name": "@pradorodriguez/pubpkg",
+  "version": "1.0.0",
+  "description": "Github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradorodriguez/pubpkg.git"
+  },
+  "author": "Marco Prado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradorodriguez/pubpkg/issues"
+  },
+  "homepage": "https://github.com/pradorodriguez/pubpkg#readme"
+}
