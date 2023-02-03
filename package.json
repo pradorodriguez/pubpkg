@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pradorodriguez/pubpkg/issues"
   },
-  "homepage": "https://github.com/pradorodriguez/pubpkg#readme"
+  "homepage": "https://github.com/pradorodriguez/pubpkg#readme",
+  "publishConfig": {
+    "@pradorodriguez:registry": "https://npm.pkg.github.com"
+  }
 }
